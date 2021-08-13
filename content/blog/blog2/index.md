@@ -8,3 +8,4 @@ description: 두번째 테스트 글을 작성합니다.
 
 나는 블로그의 작성을 연습합니다.
 
+![Alt Text](./mypic.png)
